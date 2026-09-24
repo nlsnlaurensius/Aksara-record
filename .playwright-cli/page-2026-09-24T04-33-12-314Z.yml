@@ -1,0 +1,39 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "AKSARA Recorder" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e6]: A
+    - generic [ref=e8]: ID S-JNG7SYUHEQ
+  - main [ref=e9]:
+    - generic "Pertanyaan 1 dari 4" [ref=e10]
+    - generic [ref=e12]:
+      - region [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - generic [ref=e16]: Pertanyaan 1 dari 4
+            - heading "Dengarkan pertanyaan" [level=2] [ref=e17]
+          - generic [ref=e18]: P01
+        - button "↻ Putar ulang video" [ref=e21] [cursor=pointer]
+      - region "Kamera dan perekaman jawaban" [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - generic "Pratinjau kamera" [ref=e25]
+            - img "Garis panduan posisi kepala, leher, bahu, dan tubuh bagian atas"
+            - generic [ref=e26]: Posisi siap. Anda dapat mulai merekam.
+          - generic "Hasil pemeriksaan kamera" [ref=e27]:
+            - generic [ref=e28]:
+              - generic [aria-hidden] [ref=e29]: ✓
+              - text: Wajah terlihat
+            - generic [ref=e30]:
+              - generic [aria-hidden] [ref=e31]: ✓
+              - text: Cahaya cukup
+            - generic [ref=e32]:
+              - generic [aria-hidden] [ref=e33]: ✓
+              - text: Posisi sesuai
+        - generic [ref=e34]:
+          - generic [ref=e37]:
+            - strong [ref=e38]: Belum ada rekaman
+            - generic [ref=e39]: Posisi siap untuk merekam.
+          - generic [ref=e40]:
+            - button "Mulai Rekam" [ref=e41] [cursor=pointer]
+            - button "Berikutnya →" [disabled] [ref=e43]

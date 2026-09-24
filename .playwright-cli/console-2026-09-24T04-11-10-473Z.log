@@ -1,0 +1,22 @@
+[     921ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:4173/node_modules/.vite/deps/react-dom_client.js?v=4b2ba14c:15804
+[    1005ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4173/favicon.ico:0
+[   23607ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:4173/node_modules/.vite/deps/react-dom_client.js?v=4b2ba14c:15804
+[   49952ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:4173/node_modules/.vite/deps/react-dom_client.js?v=4b2ba14c:15804
+[   72717ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:4173/node_modules/.vite/deps/react-dom_client.js?v=4b2ba14c:15804
+[   73122ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:4173/node_modules/.vite/deps/react-dom_client.js?v=4b2ba14c:15804
+[  207766ms] [LOG] [vite] server connection lost. Polling for restart... @ http://127.0.0.1:4173/@vite/client:1030
+[  209407ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:4173/node_modules/.vite/deps/react-dom_client.js?v=f601374c:15804
+[  253454ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:4173/node_modules/.vite/deps/react-dom_client.js?v=f601374c:15804
+[  254178ms] [LOG] I0924 04:15:24.649999 2196592 gl_context.cc:407] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL @ http://127.0.0.1:4173/mediapipe/wasm/vision_wasm_internal.js:4659
+[  254180ms] [WARNING] W0924 04:15:24.652000 2196592 gl_context.cc:1119] OpenGL error checking is disabled @ http://127.0.0.1:4173/@vite/client:298
+[  254186ms] [LOG] Graph successfully started running. @ http://127.0.0.1:4173/mediapipe/wasm/vision_wasm_internal.js:1359
+[  254214ms] [LOG] I0924 04:15:24.686000 2196592 gl_context.cc:407] GL version: 3.0 (OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))), renderer: WebKit WebGL @ http://127.0.0.1:4173/mediapipe/wasm/vision_wasm_internal.js:4659
+[  254215ms] [WARNING] W0924 04:15:24.687000 2196592 gl_context.cc:1119] OpenGL error checking is disabled @ http://127.0.0.1:4173/@vite/client:298
+[  254216ms] [LOG] Graph successfully started running. @ http://127.0.0.1:4173/mediapipe/wasm/vision_wasm_internal.js:1359
+[  255131ms] [LOG] Graph finished closing successfully. @ http://127.0.0.1:4173/mediapipe/wasm/vision_wasm_internal.js:1359
+[  255133ms] [LOG] I0924 04:15:25.606000 2196592 gl_context_webgl.cc:140] Successfully destroyed WebGL context with handle 1 @ http://127.0.0.1:4173/mediapipe/wasm/vision_wasm_internal.js:4659
+[  259907ms] [LOG] Graph finished closing successfully. @ http://127.0.0.1:4173/mediapipe/wasm/vision_wasm_internal.js:1359
+[  259909ms] [LOG] I0924 04:15:30.380999 2196592 gl_context_webgl.cc:140] Successfully destroyed WebGL context with handle 1 @ http://127.0.0.1:4173/mediapipe/wasm/vision_wasm_internal.js:4659
+[  580482ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:4173/node_modules/.vite/deps/react-dom_client.js?v=f601374c:15804
+[  580666ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:4173/favicon.ico:0
+[  581122ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:4173/node_modules/.vite/deps/react-dom_client.js?v=f601374c:15804
