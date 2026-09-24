@@ -365,7 +365,7 @@ export function App() {
               </div>
               {message && <div className="notice notice--error">{message}</div>}
               <button
-                className="primary-button"
+                className="primary-button setup-start-button"
                 onClick={beginSession}
                 disabled={!quality.ready || !stream || mediaBusy}
               >
